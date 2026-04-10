@@ -2,6 +2,17 @@
 
 这是一个基于 Python/PyQt5 构建的高性能自动化排课系统，专为解决高中（多班级、分主副科、密集型跨班交叉任课）场景下极端复杂的约束满足问题（CSP）。
 
+## 系统界面预览 (System Previews)
+
+### 1. 主控制台与班级课表
+![班级课表视图](screenshots/main_class_view.png)
+
+### 2. 教师排课状态纵览
+![教师透视视图](screenshots/main_teacher_view.png)
+
+### 3. 全局数据录入与智能管理
+![数据管理面板](screenshots/data_management.png)
+
 ## 核心架构：双阶段解耦引擎 (Two-Pass Scheduling Engine)
 为了避免算力在全校园高密度的课程排列中陷入几何级图论回溯（即常说的“深渊死锁”），核心排课算法 `scheduler.py` 采用了“主干 - 边角”两段式剥离回溯策略。
 
