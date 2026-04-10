@@ -1,0 +1,3945 @@
+{
+  "classes": [
+    {
+      "id": "C101",
+      "name": "高一(01)班",
+      "grade": "高一"
+    },
+    {
+      "id": "C102",
+      "name": "高一(02)班",
+      "grade": "高一"
+    },
+    {
+      "id": "C103",
+      "name": "高一(03)班",
+      "grade": "高一"
+    },
+    {
+      "id": "C104",
+      "name": "高一(04)班",
+      "grade": "高一"
+    },
+    {
+      "id": "C105",
+      "name": "高一(05)班",
+      "grade": "高一"
+    },
+    {
+      "id": "C106",
+      "name": "高一(06)班",
+      "grade": "高一"
+    },
+    {
+      "id": "C107",
+      "name": "高一(07)班",
+      "grade": "高一"
+    },
+    {
+      "id": "C108",
+      "name": "高一(08)班",
+      "grade": "高一"
+    },
+    {
+      "id": "C201",
+      "name": "高二(01)班",
+      "grade": "高二"
+    },
+    {
+      "id": "C202",
+      "name": "高二(02)班",
+      "grade": "高二"
+    },
+    {
+      "id": "C203",
+      "name": "高二(03)班",
+      "grade": "高二"
+    },
+    {
+      "id": "C204",
+      "name": "高二(04)班",
+      "grade": "高二"
+    },
+    {
+      "id": "C205",
+      "name": "高二(05)班",
+      "grade": "高二"
+    },
+    {
+      "id": "C206",
+      "name": "高二(06)班",
+      "grade": "高二"
+    },
+    {
+      "id": "C207",
+      "name": "高二(07)班",
+      "grade": "高二"
+    },
+    {
+      "id": "C208",
+      "name": "高二(08)班",
+      "grade": "高二"
+    },
+    {
+      "id": "C301",
+      "name": "高三(01)班",
+      "grade": "高三"
+    },
+    {
+      "id": "C302",
+      "name": "高三(02)班",
+      "grade": "高三"
+    },
+    {
+      "id": "C303",
+      "name": "高三(03)班",
+      "grade": "高三"
+    },
+    {
+      "id": "C304",
+      "name": "高三(04)班",
+      "grade": "高三"
+    },
+    {
+      "id": "C305",
+      "name": "高三(05)班",
+      "grade": "高三"
+    },
+    {
+      "id": "C306",
+      "name": "高三(06)班",
+      "grade": "高三"
+    },
+    {
+      "id": "C307",
+      "name": "高三(07)班",
+      "grade": "高三"
+    },
+    {
+      "id": "C308",
+      "name": "高三(08)班",
+      "grade": "高三"
+    }
+  ],
+  "teachers": [
+    {
+      "id": "TS_POL_A",
+      "name": "政治A_高一,高二",
+      "subject": "政治",
+      "max_weekly": 60,
+      "target_grades": "高一,高二",
+      "unavailable": []
+    },
+    {
+      "id": "TS_POL_B",
+      "name": "政治B_高二,高三",
+      "subject": "政治",
+      "max_weekly": 60,
+      "target_grades": "高二,高三",
+      "unavailable": []
+    },
+    {
+      "id": "TS_POL_C",
+      "name": "政治C_高一,高二",
+      "subject": "政治",
+      "max_weekly": 60,
+      "target_grades": "高一,高二",
+      "unavailable": []
+    },
+    {
+      "id": "TS_POL_D",
+      "name": "政治D_高二,高三",
+      "subject": "政治",
+      "max_weekly": 60,
+      "target_grades": "高二,高三",
+      "unavailable": []
+    },
+    {
+      "id": "TS_POL_E",
+      "name": "政治E_高一,高二",
+      "subject": "政治",
+      "max_weekly": 60,
+      "target_grades": "高一,高二",
+      "unavailable": []
+    },
+    {
+      "id": "TS_POL_F",
+      "name": "政治F_高二,高三",
+      "subject": "政治",
+      "max_weekly": 60,
+      "target_grades": "高二,高三",
+      "unavailable": []
+    },
+    {
+      "id": "TS_POL_G",
+      "name": "政治G_高一,高二",
+      "subject": "政治",
+      "max_weekly": 60,
+      "target_grades": "高一,高二",
+      "unavailable": []
+    },
+    {
+      "id": "TS_POL_H",
+      "name": "政治H_高二,高三",
+      "subject": "政治",
+      "max_weekly": 60,
+      "target_grades": "高二,高三",
+      "unavailable": []
+    },
+    {
+      "id": "TS_POL_I",
+      "name": "政治I_高一,高二",
+      "subject": "政治",
+      "max_weekly": 60,
+      "target_grades": "高一,高二",
+      "unavailable": []
+    },
+    {
+      "id": "TS_POL_J",
+      "name": "政治J_高二,高三",
+      "subject": "政治",
+      "max_weekly": 60,
+      "target_grades": "高二,高三",
+      "unavailable": []
+    },
+    {
+      "id": "TS_POL_K",
+      "name": "政治K_高一,高二",
+      "subject": "政治",
+      "max_weekly": 60,
+      "target_grades": "高一,高二",
+      "unavailable": []
+    },
+    {
+      "id": "TS_POL_L",
+      "name": "政治L_高二,高三",
+      "subject": "政治",
+      "max_weekly": 60,
+      "target_grades": "高二,高三",
+      "unavailable": []
+    },
+    {
+      "id": "TS_HIS_A",
+      "name": "历史A_高一,高二",
+      "subject": "历史",
+      "max_weekly": 60,
+      "target_grades": "高一,高二",
+      "unavailable": []
+    },
+    {
+      "id": "TS_HIS_B",
+      "name": "历史B_高二,高三",
+      "subject": "历史",
+      "max_weekly": 60,
+      "target_grades": "高二,高三",
+      "unavailable": []
+    },
+    {
+      "id": "TS_HIS_C",
+      "name": "历史C_高一,高二",
+      "subject": "历史",
+      "max_weekly": 60,
+      "target_grades": "高一,高二",
+      "unavailable": []
+    },
+    {
+      "id": "TS_HIS_D",
+      "name": "历史D_高二,高三",
+      "subject": "历史",
+      "max_weekly": 60,
+      "target_grades": "高二,高三",
+      "unavailable": []
+    },
+    {
+      "id": "TS_HIS_E",
+      "name": "历史E_高一,高二",
+      "subject": "历史",
+      "max_weekly": 60,
+      "target_grades": "高一,高二",
+      "unavailable": []
+    },
+    {
+      "id": "TS_HIS_F",
+      "name": "历史F_高二,高三",
+      "subject": "历史",
+      "max_weekly": 60,
+      "target_grades": "高二,高三",
+      "unavailable": []
+    },
+    {
+      "id": "TS_HIS_G",
+      "name": "历史G_高一,高二",
+      "subject": "历史",
+      "max_weekly": 60,
+      "target_grades": "高一,高二",
+      "unavailable": []
+    },
+    {
+      "id": "TS_HIS_H",
+      "name": "历史H_高二,高三",
+      "subject": "历史",
+      "max_weekly": 60,
+      "target_grades": "高二,高三",
+      "unavailable": []
+    },
+    {
+      "id": "TS_HIS_I",
+      "name": "历史I_高一,高二",
+      "subject": "历史",
+      "max_weekly": 60,
+      "target_grades": "高一,高二",
+      "unavailable": []
+    },
+    {
+      "id": "TS_HIS_J",
+      "name": "历史J_高二,高三",
+      "subject": "历史",
+      "max_weekly": 60,
+      "target_grades": "高二,高三",
+      "unavailable": []
+    },
+    {
+      "id": "TS_HIS_K",
+      "name": "历史K_高一,高二",
+      "subject": "历史",
+      "max_weekly": 60,
+      "target_grades": "高一,高二",
+      "unavailable": []
+    },
+    {
+      "id": "TS_HIS_L",
+      "name": "历史L_高二,高三",
+      "subject": "历史",
+      "max_weekly": 60,
+      "target_grades": "高二,高三",
+      "unavailable": []
+    },
+    {
+      "id": "TS_GEO_A",
+      "name": "地理A_高一,高二",
+      "subject": "地理",
+      "max_weekly": 60,
+      "target_grades": "高一,高二",
+      "unavailable": []
+    },
+    {
+      "id": "TS_GEO_B",
+      "name": "地理B_高二,高三",
+      "subject": "地理",
+      "max_weekly": 60,
+      "target_grades": "高二,高三",
+      "unavailable": []
+    },
+    {
+      "id": "TS_GEO_C",
+      "name": "地理C_高一,高二",
+      "subject": "地理",
+      "max_weekly": 60,
+      "target_grades": "高一,高二",
+      "unavailable": []
+    },
+    {
+      "id": "TS_GEO_D",
+      "name": "地理D_高二,高三",
+      "subject": "地理",
+      "max_weekly": 60,
+      "target_grades": "高二,高三",
+      "unavailable": []
+    },
+    {
+      "id": "TS_GEO_E",
+      "name": "地理E_高一,高二",
+      "subject": "地理",
+      "max_weekly": 60,
+      "target_grades": "高一,高二",
+      "unavailable": []
+    },
+    {
+      "id": "TS_GEO_F",
+      "name": "地理F_高二,高三",
+      "subject": "地理",
+      "max_weekly": 60,
+      "target_grades": "高二,高三",
+      "unavailable": []
+    },
+    {
+      "id": "TS_GEO_G",
+      "name": "地理G_高一,高二",
+      "subject": "地理",
+      "max_weekly": 60,
+      "target_grades": "高一,高二",
+      "unavailable": []
+    },
+    {
+      "id": "TS_GEO_H",
+      "name": "地理H_高二,高三",
+      "subject": "地理",
+      "max_weekly": 60,
+      "target_grades": "高二,高三",
+      "unavailable": []
+    },
+    {
+      "id": "TS_GEO_I",
+      "name": "地理I_高一,高二",
+      "subject": "地理",
+      "max_weekly": 60,
+      "target_grades": "高一,高二",
+      "unavailable": []
+    },
+    {
+      "id": "TS_GEO_J",
+      "name": "地理J_高二,高三",
+      "subject": "地理",
+      "max_weekly": 60,
+      "target_grades": "高二,高三",
+      "unavailable": []
+    },
+    {
+      "id": "TS_GEO_K",
+      "name": "地理K_高一,高二",
+      "subject": "地理",
+      "max_weekly": 60,
+      "target_grades": "高一,高二",
+      "unavailable": []
+    },
+    {
+      "id": "TS_GEO_L",
+      "name": "地理L_高二,高三",
+      "subject": "地理",
+      "max_weekly": 60,
+      "target_grades": "高二,高三",
+      "unavailable": []
+    },
+    {
+      "id": "TS_PHY_A",
+      "name": "物理A_高一,高二",
+      "subject": "物理",
+      "max_weekly": 60,
+      "target_grades": "高一,高二",
+      "unavailable": []
+    },
+    {
+      "id": "TS_PHY_B",
+      "name": "物理B_高二,高三",
+      "subject": "物理",
+      "max_weekly": 60,
+      "target_grades": "高二,高三",
+      "unavailable": []
+    },
+    {
+      "id": "TS_PHY_C",
+      "name": "物理C_高一,高二",
+      "subject": "物理",
+      "max_weekly": 60,
+      "target_grades": "高一,高二",
+      "unavailable": []
+    },
+    {
+      "id": "TS_PHY_D",
+      "name": "物理D_高二,高三",
+      "subject": "物理",
+      "max_weekly": 60,
+      "target_grades": "高二,高三",
+      "unavailable": []
+    },
+    {
+      "id": "TS_PHY_E",
+      "name": "物理E_高一,高二",
+      "subject": "物理",
+      "max_weekly": 60,
+      "target_grades": "高一,高二",
+      "unavailable": []
+    },
+    {
+      "id": "TS_PHY_F",
+      "name": "物理F_高二,高三",
+      "subject": "物理",
+      "max_weekly": 60,
+      "target_grades": "高二,高三",
+      "unavailable": []
+    },
+    {
+      "id": "TS_PHY_G",
+      "name": "物理G_高一,高二",
+      "subject": "物理",
+      "max_weekly": 60,
+      "target_grades": "高一,高二",
+      "unavailable": []
+    },
+    {
+      "id": "TS_PHY_H",
+      "name": "物理H_高二,高三",
+      "subject": "物理",
+      "max_weekly": 60,
+      "target_grades": "高二,高三",
+      "unavailable": []
+    },
+    {
+      "id": "TS_PHY_I",
+      "name": "物理I_高一,高二",
+      "subject": "物理",
+      "max_weekly": 60,
+      "target_grades": "高一,高二",
+      "unavailable": []
+    },
+    {
+      "id": "TS_PHY_J",
+      "name": "物理J_高二,高三",
+      "subject": "物理",
+      "max_weekly": 60,
+      "target_grades": "高二,高三",
+      "unavailable": []
+    },
+    {
+      "id": "TS_PHY_K",
+      "name": "物理K_高一,高二",
+      "subject": "物理",
+      "max_weekly": 60,
+      "target_grades": "高一,高二",
+      "unavailable": []
+    },
+    {
+      "id": "TS_PHY_L",
+      "name": "物理L_高二,高三",
+      "subject": "物理",
+      "max_weekly": 60,
+      "target_grades": "高二,高三",
+      "unavailable": []
+    },
+    {
+      "id": "TS_CHE_A",
+      "name": "化学A_高一,高二",
+      "subject": "化学",
+      "max_weekly": 60,
+      "target_grades": "高一,高二",
+      "unavailable": []
+    },
+    {
+      "id": "TS_CHE_B",
+      "name": "化学B_高二,高三",
+      "subject": "化学",
+      "max_weekly": 60,
+      "target_grades": "高二,高三",
+      "unavailable": []
+    },
+    {
+      "id": "TS_CHE_C",
+      "name": "化学C_高一,高二",
+      "subject": "化学",
+      "max_weekly": 60,
+      "target_grades": "高一,高二",
+      "unavailable": []
+    },
+    {
+      "id": "TS_CHE_D",
+      "name": "化学D_高二,高三",
+      "subject": "化学",
+      "max_weekly": 60,
+      "target_grades": "高二,高三",
+      "unavailable": []
+    },
+    {
+      "id": "TS_CHE_E",
+      "name": "化学E_高一,高二",
+      "subject": "化学",
+      "max_weekly": 60,
+      "target_grades": "高一,高二",
+      "unavailable": []
+    },
+    {
+      "id": "TS_CHE_F",
+      "name": "化学F_高二,高三",
+      "subject": "化学",
+      "max_weekly": 60,
+      "target_grades": "高二,高三",
+      "unavailable": []
+    },
+    {
+      "id": "TS_CHE_G",
+      "name": "化学G_高一,高二",
+      "subject": "化学",
+      "max_weekly": 60,
+      "target_grades": "高一,高二",
+      "unavailable": []
+    },
+    {
+      "id": "TS_CHE_H",
+      "name": "化学H_高二,高三",
+      "subject": "化学",
+      "max_weekly": 60,
+      "target_grades": "高二,高三",
+      "unavailable": []
+    },
+    {
+      "id": "TS_CHE_I",
+      "name": "化学I_高一,高二",
+      "subject": "化学",
+      "max_weekly": 60,
+      "target_grades": "高一,高二",
+      "unavailable": []
+    },
+    {
+      "id": "TS_CHE_J",
+      "name": "化学J_高二,高三",
+      "subject": "化学",
+      "max_weekly": 60,
+      "target_grades": "高二,高三",
+      "unavailable": []
+    },
+    {
+      "id": "TS_CHE_K",
+      "name": "化学K_高一,高二",
+      "subject": "化学",
+      "max_weekly": 60,
+      "target_grades": "高一,高二",
+      "unavailable": []
+    },
+    {
+      "id": "TS_CHE_L",
+      "name": "化学L_高二,高三",
+      "subject": "化学",
+      "max_weekly": 60,
+      "target_grades": "高二,高三",
+      "unavailable": []
+    },
+    {
+      "id": "TS_BIO_A",
+      "name": "生物A_高一,高二",
+      "subject": "生物",
+      "max_weekly": 60,
+      "target_grades": "高一,高二",
+      "unavailable": []
+    },
+    {
+      "id": "TS_BIO_B",
+      "name": "生物B_高二,高三",
+      "subject": "生物",
+      "max_weekly": 60,
+      "target_grades": "高二,高三",
+      "unavailable": []
+    },
+    {
+      "id": "TS_BIO_C",
+      "name": "生物C_高一,高二",
+      "subject": "生物",
+      "max_weekly": 60,
+      "target_grades": "高一,高二",
+      "unavailable": []
+    },
+    {
+      "id": "TS_BIO_D",
+      "name": "生物D_高二,高三",
+      "subject": "生物",
+      "max_weekly": 60,
+      "target_grades": "高二,高三",
+      "unavailable": []
+    },
+    {
+      "id": "TS_BIO_E",
+      "name": "生物E_高一,高二",
+      "subject": "生物",
+      "max_weekly": 60,
+      "target_grades": "高一,高二",
+      "unavailable": []
+    },
+    {
+      "id": "TS_BIO_F",
+      "name": "生物F_高二,高三",
+      "subject": "生物",
+      "max_weekly": 60,
+      "target_grades": "高二,高三",
+      "unavailable": []
+    },
+    {
+      "id": "TS_BIO_G",
+      "name": "生物G_高一,高二",
+      "subject": "生物",
+      "max_weekly": 60,
+      "target_grades": "高一,高二",
+      "unavailable": []
+    },
+    {
+      "id": "TS_BIO_H",
+      "name": "生物H_高二,高三",
+      "subject": "生物",
+      "max_weekly": 60,
+      "target_grades": "高二,高三",
+      "unavailable": []
+    },
+    {
+      "id": "TS_BIO_I",
+      "name": "生物I_高一,高二",
+      "subject": "生物",
+      "max_weekly": 60,
+      "target_grades": "高一,高二",
+      "unavailable": []
+    },
+    {
+      "id": "TS_BIO_J",
+      "name": "生物J_高二,高三",
+      "subject": "生物",
+      "max_weekly": 60,
+      "target_grades": "高二,高三",
+      "unavailable": []
+    },
+    {
+      "id": "TS_BIO_K",
+      "name": "生物K_高一,高二",
+      "subject": "生物",
+      "max_weekly": 60,
+      "target_grades": "高一,高二",
+      "unavailable": []
+    },
+    {
+      "id": "TS_BIO_L",
+      "name": "生物L_高二,高三",
+      "subject": "生物",
+      "max_weekly": 60,
+      "target_grades": "高二,高三",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G1_CHI_A",
+      "name": "语文A_高一",
+      "subject": "语文",
+      "max_weekly": 60,
+      "target_grades": "高一",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G1_CHI_B",
+      "name": "语文B_高一",
+      "subject": "语文",
+      "max_weekly": 60,
+      "target_grades": "高一",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G1_CHI_C",
+      "name": "语文C_高一",
+      "subject": "语文",
+      "max_weekly": 60,
+      "target_grades": "高一",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G1_CHI_D",
+      "name": "语文D_高一",
+      "subject": "语文",
+      "max_weekly": 60,
+      "target_grades": "高一",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G1_CHI_E",
+      "name": "语文E_高一",
+      "subject": "语文",
+      "max_weekly": 60,
+      "target_grades": "高一",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G1_CHI_F",
+      "name": "语文F_高一",
+      "subject": "语文",
+      "max_weekly": 60,
+      "target_grades": "高一",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G1_MAT_A",
+      "name": "数学A_高一",
+      "subject": "数学",
+      "max_weekly": 60,
+      "target_grades": "高一",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G1_MAT_B",
+      "name": "数学B_高一",
+      "subject": "数学",
+      "max_weekly": 60,
+      "target_grades": "高一",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G1_MAT_C",
+      "name": "数学C_高一",
+      "subject": "数学",
+      "max_weekly": 60,
+      "target_grades": "高一",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G1_MAT_D",
+      "name": "数学D_高一",
+      "subject": "数学",
+      "max_weekly": 60,
+      "target_grades": "高一",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G1_MAT_E",
+      "name": "数学E_高一",
+      "subject": "数学",
+      "max_weekly": 60,
+      "target_grades": "高一",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G1_MAT_F",
+      "name": "数学F_高一",
+      "subject": "数学",
+      "max_weekly": 60,
+      "target_grades": "高一",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G1_ENG_A",
+      "name": "英语A_高一",
+      "subject": "英语",
+      "max_weekly": 60,
+      "target_grades": "高一",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G1_ENG_B",
+      "name": "英语B_高一",
+      "subject": "英语",
+      "max_weekly": 60,
+      "target_grades": "高一",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G1_ENG_C",
+      "name": "英语C_高一",
+      "subject": "英语",
+      "max_weekly": 60,
+      "target_grades": "高一",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G1_ENG_D",
+      "name": "英语D_高一",
+      "subject": "英语",
+      "max_weekly": 60,
+      "target_grades": "高一",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G1_ENG_E",
+      "name": "英语E_高一",
+      "subject": "英语",
+      "max_weekly": 60,
+      "target_grades": "高一",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G1_ENG_F",
+      "name": "英语F_高一",
+      "subject": "英语",
+      "max_weekly": 60,
+      "target_grades": "高一",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G2_CHI_A",
+      "name": "语文A_高二",
+      "subject": "语文",
+      "max_weekly": 60,
+      "target_grades": "高二",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G2_CHI_B",
+      "name": "语文B_高二",
+      "subject": "语文",
+      "max_weekly": 60,
+      "target_grades": "高二",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G2_CHI_C",
+      "name": "语文C_高二",
+      "subject": "语文",
+      "max_weekly": 60,
+      "target_grades": "高二",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G2_CHI_D",
+      "name": "语文D_高二",
+      "subject": "语文",
+      "max_weekly": 60,
+      "target_grades": "高二",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G2_CHI_E",
+      "name": "语文E_高二",
+      "subject": "语文",
+      "max_weekly": 60,
+      "target_grades": "高二",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G2_CHI_F",
+      "name": "语文F_高二",
+      "subject": "语文",
+      "max_weekly": 60,
+      "target_grades": "高二",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G2_MAT_A",
+      "name": "数学A_高二",
+      "subject": "数学",
+      "max_weekly": 60,
+      "target_grades": "高二",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G2_MAT_B",
+      "name": "数学B_高二",
+      "subject": "数学",
+      "max_weekly": 60,
+      "target_grades": "高二",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G2_MAT_C",
+      "name": "数学C_高二",
+      "subject": "数学",
+      "max_weekly": 60,
+      "target_grades": "高二",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G2_MAT_D",
+      "name": "数学D_高二",
+      "subject": "数学",
+      "max_weekly": 60,
+      "target_grades": "高二",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G2_MAT_E",
+      "name": "数学E_高二",
+      "subject": "数学",
+      "max_weekly": 60,
+      "target_grades": "高二",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G2_MAT_F",
+      "name": "数学F_高二",
+      "subject": "数学",
+      "max_weekly": 60,
+      "target_grades": "高二",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G2_ENG_A",
+      "name": "英语A_高二",
+      "subject": "英语",
+      "max_weekly": 60,
+      "target_grades": "高二",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G2_ENG_B",
+      "name": "英语B_高二",
+      "subject": "英语",
+      "max_weekly": 60,
+      "target_grades": "高二",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G2_ENG_C",
+      "name": "英语C_高二",
+      "subject": "英语",
+      "max_weekly": 60,
+      "target_grades": "高二",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G2_ENG_D",
+      "name": "英语D_高二",
+      "subject": "英语",
+      "max_weekly": 60,
+      "target_grades": "高二",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G2_ENG_E",
+      "name": "英语E_高二",
+      "subject": "英语",
+      "max_weekly": 60,
+      "target_grades": "高二",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G2_ENG_F",
+      "name": "英语F_高二",
+      "subject": "英语",
+      "max_weekly": 60,
+      "target_grades": "高二",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G3_CHI_A",
+      "name": "语文A_高三",
+      "subject": "语文",
+      "max_weekly": 60,
+      "target_grades": "高三",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G3_CHI_B",
+      "name": "语文B_高三",
+      "subject": "语文",
+      "max_weekly": 60,
+      "target_grades": "高三",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G3_CHI_C",
+      "name": "语文C_高三",
+      "subject": "语文",
+      "max_weekly": 60,
+      "target_grades": "高三",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G3_CHI_D",
+      "name": "语文D_高三",
+      "subject": "语文",
+      "max_weekly": 60,
+      "target_grades": "高三",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G3_CHI_E",
+      "name": "语文E_高三",
+      "subject": "语文",
+      "max_weekly": 60,
+      "target_grades": "高三",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G3_CHI_F",
+      "name": "语文F_高三",
+      "subject": "语文",
+      "max_weekly": 60,
+      "target_grades": "高三",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G3_MAT_A",
+      "name": "数学A_高三",
+      "subject": "数学",
+      "max_weekly": 60,
+      "target_grades": "高三",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G3_MAT_B",
+      "name": "数学B_高三",
+      "subject": "数学",
+      "max_weekly": 60,
+      "target_grades": "高三",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G3_MAT_C",
+      "name": "数学C_高三",
+      "subject": "数学",
+      "max_weekly": 60,
+      "target_grades": "高三",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G3_MAT_D",
+      "name": "数学D_高三",
+      "subject": "数学",
+      "max_weekly": 60,
+      "target_grades": "高三",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G3_MAT_E",
+      "name": "数学E_高三",
+      "subject": "数学",
+      "max_weekly": 60,
+      "target_grades": "高三",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G3_MAT_F",
+      "name": "数学F_高三",
+      "subject": "数学",
+      "max_weekly": 60,
+      "target_grades": "高三",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G3_ENG_A",
+      "name": "英语A_高三",
+      "subject": "英语",
+      "max_weekly": 60,
+      "target_grades": "高三",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G3_ENG_B",
+      "name": "英语B_高三",
+      "subject": "英语",
+      "max_weekly": 60,
+      "target_grades": "高三",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G3_ENG_C",
+      "name": "英语C_高三",
+      "subject": "英语",
+      "max_weekly": 60,
+      "target_grades": "高三",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G3_ENG_D",
+      "name": "英语D_高三",
+      "subject": "英语",
+      "max_weekly": 60,
+      "target_grades": "高三",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G3_ENG_E",
+      "name": "英语E_高三",
+      "subject": "英语",
+      "max_weekly": 60,
+      "target_grades": "高三",
+      "unavailable": []
+    },
+    {
+      "id": "TG_G3_ENG_F",
+      "name": "英语F_高三",
+      "subject": "英语",
+      "max_weekly": 60,
+      "target_grades": "高三",
+      "unavailable": []
+    }
+  ],
+  "courses": [
+    {
+      "id": "CO_C101_CHI",
+      "name": "语文",
+      "teacher_id": "TG_G1_CHI_A",
+      "class_id": "C101",
+      "weekly_hours": 7,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C101_MAT",
+      "name": "数学",
+      "teacher_id": "TG_G1_MAT_A",
+      "class_id": "C101",
+      "weekly_hours": 9,
+      "consecutive": true,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C101_ENG",
+      "name": "英语",
+      "teacher_id": "TG_G1_ENG_A",
+      "class_id": "C101",
+      "weekly_hours": 9,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C101_POL",
+      "name": "政治",
+      "teacher_id": "TS_POL_A",
+      "class_id": "C101",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C101_HIS",
+      "name": "历史",
+      "teacher_id": "TS_HIS_A",
+      "class_id": "C101",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C101_GEO",
+      "name": "地理",
+      "teacher_id": "TS_GEO_A",
+      "class_id": "C101",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C101_PHY",
+      "name": "物理",
+      "teacher_id": "TS_PHY_A",
+      "class_id": "C101",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C101_CHE",
+      "name": "化学",
+      "teacher_id": "TS_CHE_A",
+      "class_id": "C101",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C101_BIO",
+      "name": "生物",
+      "teacher_id": "TS_BIO_A",
+      "class_id": "C101",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C101_M_A",
+      "name": "早读(语文)",
+      "teacher_id": "TG_G1_CHI_A",
+      "class_id": "C101",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C101_M_B",
+      "name": "早读(英语)",
+      "teacher_id": "TG_G1_ENG_A",
+      "class_id": "C101",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C101_E_0",
+      "name": "自习(政治)",
+      "teacher_id": "TS_POL_A",
+      "class_id": "C101",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C101_E_1",
+      "name": "自习(政治)",
+      "teacher_id": "TS_POL_C",
+      "class_id": "C101",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C102_CHI",
+      "name": "语文",
+      "teacher_id": "TG_G1_CHI_B",
+      "class_id": "C102",
+      "weekly_hours": 7,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C102_MAT",
+      "name": "数学",
+      "teacher_id": "TG_G1_MAT_B",
+      "class_id": "C102",
+      "weekly_hours": 10,
+      "consecutive": true,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C102_ENG",
+      "name": "英语",
+      "teacher_id": "TG_G1_ENG_B",
+      "class_id": "C102",
+      "weekly_hours": 8,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C102_POL",
+      "name": "政治",
+      "teacher_id": "TS_POL_C",
+      "class_id": "C102",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C102_HIS",
+      "name": "历史",
+      "teacher_id": "TS_HIS_C",
+      "class_id": "C102",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C102_GEO",
+      "name": "地理",
+      "teacher_id": "TS_GEO_C",
+      "class_id": "C102",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C102_PHY",
+      "name": "物理",
+      "teacher_id": "TS_PHY_C",
+      "class_id": "C102",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C102_CHE",
+      "name": "化学",
+      "teacher_id": "TS_CHE_C",
+      "class_id": "C102",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C102_BIO",
+      "name": "生物",
+      "teacher_id": "TS_BIO_C",
+      "class_id": "C102",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C102_M_A",
+      "name": "早读(语文)",
+      "teacher_id": "TG_G1_CHI_B",
+      "class_id": "C102",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C102_M_B",
+      "name": "早读(英语)",
+      "teacher_id": "TG_G1_ENG_B",
+      "class_id": "C102",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C102_E_0",
+      "name": "自习(政治)",
+      "teacher_id": "TS_POL_E",
+      "class_id": "C102",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C102_E_1",
+      "name": "自习(政治)",
+      "teacher_id": "TS_POL_G",
+      "class_id": "C102",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C103_CHI",
+      "name": "语文",
+      "teacher_id": "TG_G1_CHI_C",
+      "class_id": "C103",
+      "weekly_hours": 9,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C103_MAT",
+      "name": "数学",
+      "teacher_id": "TG_G1_MAT_C",
+      "class_id": "C103",
+      "weekly_hours": 10,
+      "consecutive": true,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C103_ENG",
+      "name": "英语",
+      "teacher_id": "TG_G1_ENG_C",
+      "class_id": "C103",
+      "weekly_hours": 6,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C103_POL",
+      "name": "政治",
+      "teacher_id": "TS_POL_E",
+      "class_id": "C103",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C103_HIS",
+      "name": "历史",
+      "teacher_id": "TS_HIS_E",
+      "class_id": "C103",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C103_GEO",
+      "name": "地理",
+      "teacher_id": "TS_GEO_E",
+      "class_id": "C103",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C103_PHY",
+      "name": "物理",
+      "teacher_id": "TS_PHY_E",
+      "class_id": "C103",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C103_CHE",
+      "name": "化学",
+      "teacher_id": "TS_CHE_E",
+      "class_id": "C103",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C103_BIO",
+      "name": "生物",
+      "teacher_id": "TS_BIO_E",
+      "class_id": "C103",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C103_M_A",
+      "name": "早读(语文)",
+      "teacher_id": "TG_G1_CHI_C",
+      "class_id": "C103",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C103_M_B",
+      "name": "早读(英语)",
+      "teacher_id": "TG_G1_ENG_C",
+      "class_id": "C103",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C103_E_0",
+      "name": "自习(政治)",
+      "teacher_id": "TS_POL_I",
+      "class_id": "C103",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C103_E_1",
+      "name": "自习(政治)",
+      "teacher_id": "TS_POL_K",
+      "class_id": "C103",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C104_CHI",
+      "name": "语文",
+      "teacher_id": "TG_G1_CHI_D",
+      "class_id": "C104",
+      "weekly_hours": 9,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C104_MAT",
+      "name": "数学",
+      "teacher_id": "TG_G1_MAT_D",
+      "class_id": "C104",
+      "weekly_hours": 8,
+      "consecutive": true,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C104_ENG",
+      "name": "英语",
+      "teacher_id": "TG_G1_ENG_D",
+      "class_id": "C104",
+      "weekly_hours": 7,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C104_POL",
+      "name": "政治",
+      "teacher_id": "TS_POL_G",
+      "class_id": "C104",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C104_HIS",
+      "name": "历史",
+      "teacher_id": "TS_HIS_G",
+      "class_id": "C104",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C104_GEO",
+      "name": "地理",
+      "teacher_id": "TS_GEO_G",
+      "class_id": "C104",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C104_PHY",
+      "name": "物理",
+      "teacher_id": "TS_PHY_G",
+      "class_id": "C104",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C104_CHE",
+      "name": "化学",
+      "teacher_id": "TS_CHE_G",
+      "class_id": "C104",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C104_BIO",
+      "name": "生物",
+      "teacher_id": "TS_BIO_G",
+      "class_id": "C104",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C104_M_A",
+      "name": "早读(语文)",
+      "teacher_id": "TG_G1_CHI_D",
+      "class_id": "C104",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C104_M_B",
+      "name": "早读(英语)",
+      "teacher_id": "TG_G1_ENG_D",
+      "class_id": "C104",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C104_E_0",
+      "name": "自习(历史)",
+      "teacher_id": "TS_HIS_A",
+      "class_id": "C104",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C104_E_1",
+      "name": "自习(历史)",
+      "teacher_id": "TS_HIS_C",
+      "class_id": "C104",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C105_CHI",
+      "name": "语文",
+      "teacher_id": "TG_G1_CHI_E",
+      "class_id": "C105",
+      "weekly_hours": 9,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C105_MAT",
+      "name": "数学",
+      "teacher_id": "TG_G1_MAT_E",
+      "class_id": "C105",
+      "weekly_hours": 9,
+      "consecutive": true,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C105_ENG",
+      "name": "英语",
+      "teacher_id": "TG_G1_ENG_E",
+      "class_id": "C105",
+      "weekly_hours": 8,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C105_POL",
+      "name": "政治",
+      "teacher_id": "TS_POL_I",
+      "class_id": "C105",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C105_HIS",
+      "name": "历史",
+      "teacher_id": "TS_HIS_I",
+      "class_id": "C105",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C105_GEO",
+      "name": "地理",
+      "teacher_id": "TS_GEO_I",
+      "class_id": "C105",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C105_PHY",
+      "name": "物理",
+      "teacher_id": "TS_PHY_I",
+      "class_id": "C105",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C105_CHE",
+      "name": "化学",
+      "teacher_id": "TS_CHE_I",
+      "class_id": "C105",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C105_BIO",
+      "name": "生物",
+      "teacher_id": "TS_BIO_I",
+      "class_id": "C105",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C105_M_A",
+      "name": "早读(语文)",
+      "teacher_id": "TG_G1_CHI_E",
+      "class_id": "C105",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C105_M_B",
+      "name": "早读(英语)",
+      "teacher_id": "TG_G1_ENG_E",
+      "class_id": "C105",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C105_E_0",
+      "name": "自习(历史)",
+      "teacher_id": "TS_HIS_E",
+      "class_id": "C105",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C105_E_1",
+      "name": "自习(历史)",
+      "teacher_id": "TS_HIS_G",
+      "class_id": "C105",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C106_CHI",
+      "name": "语文",
+      "teacher_id": "TG_G1_CHI_F",
+      "class_id": "C106",
+      "weekly_hours": 9,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C106_MAT",
+      "name": "数学",
+      "teacher_id": "TG_G1_MAT_F",
+      "class_id": "C106",
+      "weekly_hours": 8,
+      "consecutive": true,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C106_ENG",
+      "name": "英语",
+      "teacher_id": "TG_G1_ENG_F",
+      "class_id": "C106",
+      "weekly_hours": 9,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C106_POL",
+      "name": "政治",
+      "teacher_id": "TS_POL_K",
+      "class_id": "C106",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C106_HIS",
+      "name": "历史",
+      "teacher_id": "TS_HIS_K",
+      "class_id": "C106",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C106_GEO",
+      "name": "地理",
+      "teacher_id": "TS_GEO_K",
+      "class_id": "C106",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C106_PHY",
+      "name": "物理",
+      "teacher_id": "TS_PHY_K",
+      "class_id": "C106",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C106_CHE",
+      "name": "化学",
+      "teacher_id": "TS_CHE_K",
+      "class_id": "C106",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C106_BIO",
+      "name": "生物",
+      "teacher_id": "TS_BIO_K",
+      "class_id": "C106",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C106_M_A",
+      "name": "早读(语文)",
+      "teacher_id": "TG_G1_CHI_F",
+      "class_id": "C106",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C106_M_B",
+      "name": "早读(英语)",
+      "teacher_id": "TG_G1_ENG_F",
+      "class_id": "C106",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C106_E_0",
+      "name": "自习(历史)",
+      "teacher_id": "TS_HIS_I",
+      "class_id": "C106",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C106_E_1",
+      "name": "自习(历史)",
+      "teacher_id": "TS_HIS_K",
+      "class_id": "C106",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C107_CHI",
+      "name": "语文",
+      "teacher_id": "TG_G1_CHI_A",
+      "class_id": "C107",
+      "weekly_hours": 9,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C107_MAT",
+      "name": "数学",
+      "teacher_id": "TG_G1_MAT_A",
+      "class_id": "C107",
+      "weekly_hours": 9,
+      "consecutive": true,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C107_ENG",
+      "name": "英语",
+      "teacher_id": "TG_G1_ENG_A",
+      "class_id": "C107",
+      "weekly_hours": 6,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C107_POL",
+      "name": "政治",
+      "teacher_id": "TS_POL_A",
+      "class_id": "C107",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C107_HIS",
+      "name": "历史",
+      "teacher_id": "TS_HIS_A",
+      "class_id": "C107",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C107_GEO",
+      "name": "地理",
+      "teacher_id": "TS_GEO_A",
+      "class_id": "C107",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C107_PHY",
+      "name": "物理",
+      "teacher_id": "TS_PHY_A",
+      "class_id": "C107",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C107_CHE",
+      "name": "化学",
+      "teacher_id": "TS_CHE_A",
+      "class_id": "C107",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C107_BIO",
+      "name": "生物",
+      "teacher_id": "TS_BIO_A",
+      "class_id": "C107",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C107_M_A",
+      "name": "早读(语文)",
+      "teacher_id": "TG_G1_CHI_A",
+      "class_id": "C107",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C107_M_B",
+      "name": "早读(英语)",
+      "teacher_id": "TG_G1_ENG_A",
+      "class_id": "C107",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C107_E_0",
+      "name": "自习(地理)",
+      "teacher_id": "TS_GEO_A",
+      "class_id": "C107",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C107_E_1",
+      "name": "自习(地理)",
+      "teacher_id": "TS_GEO_C",
+      "class_id": "C107",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C108_CHI",
+      "name": "语文",
+      "teacher_id": "TG_G1_CHI_B",
+      "class_id": "C108",
+      "weekly_hours": 7,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C108_MAT",
+      "name": "数学",
+      "teacher_id": "TG_G1_MAT_B",
+      "class_id": "C108",
+      "weekly_hours": 7,
+      "consecutive": true,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C108_ENG",
+      "name": "英语",
+      "teacher_id": "TG_G1_ENG_B",
+      "class_id": "C108",
+      "weekly_hours": 10,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C108_POL",
+      "name": "政治",
+      "teacher_id": "TS_POL_C",
+      "class_id": "C108",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C108_HIS",
+      "name": "历史",
+      "teacher_id": "TS_HIS_C",
+      "class_id": "C108",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C108_GEO",
+      "name": "地理",
+      "teacher_id": "TS_GEO_C",
+      "class_id": "C108",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C108_PHY",
+      "name": "物理",
+      "teacher_id": "TS_PHY_C",
+      "class_id": "C108",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C108_CHE",
+      "name": "化学",
+      "teacher_id": "TS_CHE_C",
+      "class_id": "C108",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C108_BIO",
+      "name": "生物",
+      "teacher_id": "TS_BIO_C",
+      "class_id": "C108",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C108_M_A",
+      "name": "早读(语文)",
+      "teacher_id": "TG_G1_CHI_B",
+      "class_id": "C108",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C108_M_B",
+      "name": "早读(英语)",
+      "teacher_id": "TG_G1_ENG_B",
+      "class_id": "C108",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C108_E_0",
+      "name": "自习(地理)",
+      "teacher_id": "TS_GEO_E",
+      "class_id": "C108",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C108_E_1",
+      "name": "自习(地理)",
+      "teacher_id": "TS_GEO_G",
+      "class_id": "C108",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C201_CHI",
+      "name": "语文",
+      "teacher_id": "TG_G2_CHI_C",
+      "class_id": "C201",
+      "weekly_hours": 8,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C201_MAT",
+      "name": "数学",
+      "teacher_id": "TG_G2_MAT_C",
+      "class_id": "C201",
+      "weekly_hours": 8,
+      "consecutive": true,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C201_ENG",
+      "name": "英语",
+      "teacher_id": "TG_G2_ENG_C",
+      "class_id": "C201",
+      "weekly_hours": 7,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C201_POL",
+      "name": "政治",
+      "teacher_id": "TS_POL_I",
+      "class_id": "C201",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C201_HIS",
+      "name": "历史",
+      "teacher_id": "TS_HIS_I",
+      "class_id": "C201",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C201_GEO",
+      "name": "地理",
+      "teacher_id": "TS_GEO_I",
+      "class_id": "C201",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C201_PHY",
+      "name": "物理",
+      "teacher_id": "TS_PHY_I",
+      "class_id": "C201",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C201_CHE",
+      "name": "化学",
+      "teacher_id": "TS_CHE_I",
+      "class_id": "C201",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C201_BIO",
+      "name": "生物",
+      "teacher_id": "TS_BIO_I",
+      "class_id": "C201",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C201_M_A",
+      "name": "早读(语文)",
+      "teacher_id": "TG_G2_CHI_A",
+      "class_id": "C201",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C201_M_B",
+      "name": "早读(英语)",
+      "teacher_id": "TG_G2_ENG_A",
+      "class_id": "C201",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C201_E_0",
+      "name": "自习(政治)",
+      "teacher_id": "TS_POL_B",
+      "class_id": "C201",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C201_E_1",
+      "name": "自习(政治)",
+      "teacher_id": "TS_POL_D",
+      "class_id": "C201",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C202_CHI",
+      "name": "语文",
+      "teacher_id": "TG_G2_CHI_D",
+      "class_id": "C202",
+      "weekly_hours": 7,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C202_MAT",
+      "name": "数学",
+      "teacher_id": "TG_G2_MAT_D",
+      "class_id": "C202",
+      "weekly_hours": 9,
+      "consecutive": true,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C202_ENG",
+      "name": "英语",
+      "teacher_id": "TG_G2_ENG_D",
+      "class_id": "C202",
+      "weekly_hours": 11,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C202_POL",
+      "name": "政治",
+      "teacher_id": "TS_POL_J",
+      "class_id": "C202",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C202_HIS",
+      "name": "历史",
+      "teacher_id": "TS_HIS_J",
+      "class_id": "C202",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C202_GEO",
+      "name": "地理",
+      "teacher_id": "TS_GEO_J",
+      "class_id": "C202",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C202_PHY",
+      "name": "物理",
+      "teacher_id": "TS_PHY_J",
+      "class_id": "C202",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C202_CHE",
+      "name": "化学",
+      "teacher_id": "TS_CHE_J",
+      "class_id": "C202",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C202_BIO",
+      "name": "生物",
+      "teacher_id": "TS_BIO_J",
+      "class_id": "C202",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C202_M_A",
+      "name": "早读(语文)",
+      "teacher_id": "TG_G2_CHI_B",
+      "class_id": "C202",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C202_M_B",
+      "name": "早读(英语)",
+      "teacher_id": "TG_G2_ENG_B",
+      "class_id": "C202",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C202_E_0",
+      "name": "自习(政治)",
+      "teacher_id": "TS_POL_F",
+      "class_id": "C202",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C202_E_1",
+      "name": "自习(政治)",
+      "teacher_id": "TS_POL_H",
+      "class_id": "C202",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C203_CHI",
+      "name": "语文",
+      "teacher_id": "TG_G2_CHI_E",
+      "class_id": "C203",
+      "weekly_hours": 10,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C203_MAT",
+      "name": "数学",
+      "teacher_id": "TG_G2_MAT_E",
+      "class_id": "C203",
+      "weekly_hours": 7,
+      "consecutive": true,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C203_ENG",
+      "name": "英语",
+      "teacher_id": "TG_G2_ENG_E",
+      "class_id": "C203",
+      "weekly_hours": 6,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C203_POL",
+      "name": "政治",
+      "teacher_id": "TS_POL_K",
+      "class_id": "C203",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C203_HIS",
+      "name": "历史",
+      "teacher_id": "TS_HIS_K",
+      "class_id": "C203",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C203_GEO",
+      "name": "地理",
+      "teacher_id": "TS_GEO_K",
+      "class_id": "C203",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C203_PHY",
+      "name": "物理",
+      "teacher_id": "TS_PHY_K",
+      "class_id": "C203",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C203_CHE",
+      "name": "化学",
+      "teacher_id": "TS_CHE_K",
+      "class_id": "C203",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C203_BIO",
+      "name": "生物",
+      "teacher_id": "TS_BIO_K",
+      "class_id": "C203",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C203_M_A",
+      "name": "早读(语文)",
+      "teacher_id": "TG_G2_CHI_C",
+      "class_id": "C203",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C203_M_B",
+      "name": "早读(英语)",
+      "teacher_id": "TG_G2_ENG_C",
+      "class_id": "C203",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C203_E_0",
+      "name": "自习(政治)",
+      "teacher_id": "TS_POL_J",
+      "class_id": "C203",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C203_E_1",
+      "name": "自习(政治)",
+      "teacher_id": "TS_POL_L",
+      "class_id": "C203",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C204_CHI",
+      "name": "语文",
+      "teacher_id": "TG_G2_CHI_F",
+      "class_id": "C204",
+      "weekly_hours": 6,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C204_MAT",
+      "name": "数学",
+      "teacher_id": "TG_G2_MAT_F",
+      "class_id": "C204",
+      "weekly_hours": 11,
+      "consecutive": true,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C204_ENG",
+      "name": "英语",
+      "teacher_id": "TG_G2_ENG_F",
+      "class_id": "C204",
+      "weekly_hours": 10,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C204_POL",
+      "name": "政治",
+      "teacher_id": "TS_POL_L",
+      "class_id": "C204",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C204_HIS",
+      "name": "历史",
+      "teacher_id": "TS_HIS_L",
+      "class_id": "C204",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C204_GEO",
+      "name": "地理",
+      "teacher_id": "TS_GEO_L",
+      "class_id": "C204",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C204_PHY",
+      "name": "物理",
+      "teacher_id": "TS_PHY_L",
+      "class_id": "C204",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C204_CHE",
+      "name": "化学",
+      "teacher_id": "TS_CHE_L",
+      "class_id": "C204",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C204_BIO",
+      "name": "生物",
+      "teacher_id": "TS_BIO_L",
+      "class_id": "C204",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C204_M_A",
+      "name": "早读(语文)",
+      "teacher_id": "TG_G2_CHI_D",
+      "class_id": "C204",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C204_M_B",
+      "name": "早读(英语)",
+      "teacher_id": "TG_G2_ENG_D",
+      "class_id": "C204",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C204_E_0",
+      "name": "自习(历史)",
+      "teacher_id": "TS_HIS_B",
+      "class_id": "C204",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C204_E_1",
+      "name": "自习(历史)",
+      "teacher_id": "TS_HIS_D",
+      "class_id": "C204",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C205_CHI",
+      "name": "语文",
+      "teacher_id": "TG_G2_CHI_A",
+      "class_id": "C205",
+      "weekly_hours": 11,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C205_MAT",
+      "name": "数学",
+      "teacher_id": "TG_G2_MAT_A",
+      "class_id": "C205",
+      "weekly_hours": 9,
+      "consecutive": true,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C205_ENG",
+      "name": "英语",
+      "teacher_id": "TG_G2_ENG_A",
+      "class_id": "C205",
+      "weekly_hours": 7,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C205_POL",
+      "name": "政治",
+      "teacher_id": "TS_POL_A",
+      "class_id": "C205",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C205_HIS",
+      "name": "历史",
+      "teacher_id": "TS_HIS_A",
+      "class_id": "C205",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C205_GEO",
+      "name": "地理",
+      "teacher_id": "TS_GEO_A",
+      "class_id": "C205",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C205_PHY",
+      "name": "物理",
+      "teacher_id": "TS_PHY_A",
+      "class_id": "C205",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C205_CHE",
+      "name": "化学",
+      "teacher_id": "TS_CHE_A",
+      "class_id": "C205",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C205_BIO",
+      "name": "生物",
+      "teacher_id": "TS_BIO_A",
+      "class_id": "C205",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C205_M_A",
+      "name": "早读(语文)",
+      "teacher_id": "TG_G2_CHI_E",
+      "class_id": "C205",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C205_M_B",
+      "name": "早读(英语)",
+      "teacher_id": "TG_G2_ENG_E",
+      "class_id": "C205",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C205_E_0",
+      "name": "自习(历史)",
+      "teacher_id": "TS_HIS_F",
+      "class_id": "C205",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C205_E_1",
+      "name": "自习(历史)",
+      "teacher_id": "TS_HIS_H",
+      "class_id": "C205",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C206_CHI",
+      "name": "语文",
+      "teacher_id": "TG_G2_CHI_B",
+      "class_id": "C206",
+      "weekly_hours": 11,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C206_MAT",
+      "name": "数学",
+      "teacher_id": "TG_G2_MAT_B",
+      "class_id": "C206",
+      "weekly_hours": 9,
+      "consecutive": true,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C206_ENG",
+      "name": "英语",
+      "teacher_id": "TG_G2_ENG_B",
+      "class_id": "C206",
+      "weekly_hours": 7,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C206_POL",
+      "name": "政治",
+      "teacher_id": "TS_POL_B",
+      "class_id": "C206",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C206_HIS",
+      "name": "历史",
+      "teacher_id": "TS_HIS_B",
+      "class_id": "C206",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C206_GEO",
+      "name": "地理",
+      "teacher_id": "TS_GEO_B",
+      "class_id": "C206",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C206_PHY",
+      "name": "物理",
+      "teacher_id": "TS_PHY_B",
+      "class_id": "C206",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C206_CHE",
+      "name": "化学",
+      "teacher_id": "TS_CHE_B",
+      "class_id": "C206",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C206_BIO",
+      "name": "生物",
+      "teacher_id": "TS_BIO_B",
+      "class_id": "C206",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C206_M_A",
+      "name": "早读(语文)",
+      "teacher_id": "TG_G2_CHI_F",
+      "class_id": "C206",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C206_M_B",
+      "name": "早读(英语)",
+      "teacher_id": "TG_G2_ENG_F",
+      "class_id": "C206",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C206_E_0",
+      "name": "自习(历史)",
+      "teacher_id": "TS_HIS_J",
+      "class_id": "C206",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C206_E_1",
+      "name": "自习(历史)",
+      "teacher_id": "TS_HIS_L",
+      "class_id": "C206",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C207_CHI",
+      "name": "语文",
+      "teacher_id": "TG_G2_CHI_C",
+      "class_id": "C207",
+      "weekly_hours": 8,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C207_MAT",
+      "name": "数学",
+      "teacher_id": "TG_G2_MAT_C",
+      "class_id": "C207",
+      "weekly_hours": 8,
+      "consecutive": true,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C207_ENG",
+      "name": "英语",
+      "teacher_id": "TG_G2_ENG_C",
+      "class_id": "C207",
+      "weekly_hours": 8,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C207_POL",
+      "name": "政治",
+      "teacher_id": "TS_POL_C",
+      "class_id": "C207",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C207_HIS",
+      "name": "历史",
+      "teacher_id": "TS_HIS_C",
+      "class_id": "C207",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C207_GEO",
+      "name": "地理",
+      "teacher_id": "TS_GEO_C",
+      "class_id": "C207",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C207_PHY",
+      "name": "物理",
+      "teacher_id": "TS_PHY_C",
+      "class_id": "C207",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C207_CHE",
+      "name": "化学",
+      "teacher_id": "TS_CHE_C",
+      "class_id": "C207",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C207_BIO",
+      "name": "生物",
+      "teacher_id": "TS_BIO_C",
+      "class_id": "C207",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C207_M_A",
+      "name": "早读(语文)",
+      "teacher_id": "TG_G2_CHI_A",
+      "class_id": "C207",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C207_M_B",
+      "name": "早读(英语)",
+      "teacher_id": "TG_G2_ENG_A",
+      "class_id": "C207",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C207_E_0",
+      "name": "自习(地理)",
+      "teacher_id": "TS_GEO_B",
+      "class_id": "C207",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C207_E_1",
+      "name": "自习(地理)",
+      "teacher_id": "TS_GEO_D",
+      "class_id": "C207",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C208_CHI",
+      "name": "语文",
+      "teacher_id": "TG_G2_CHI_D",
+      "class_id": "C208",
+      "weekly_hours": 9,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C208_MAT",
+      "name": "数学",
+      "teacher_id": "TG_G2_MAT_D",
+      "class_id": "C208",
+      "weekly_hours": 8,
+      "consecutive": true,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C208_ENG",
+      "name": "英语",
+      "teacher_id": "TG_G2_ENG_D",
+      "class_id": "C208",
+      "weekly_hours": 10,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C208_POL",
+      "name": "政治",
+      "teacher_id": "TS_POL_D",
+      "class_id": "C208",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C208_HIS",
+      "name": "历史",
+      "teacher_id": "TS_HIS_D",
+      "class_id": "C208",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C208_GEO",
+      "name": "地理",
+      "teacher_id": "TS_GEO_D",
+      "class_id": "C208",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C208_PHY",
+      "name": "物理",
+      "teacher_id": "TS_PHY_D",
+      "class_id": "C208",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C208_CHE",
+      "name": "化学",
+      "teacher_id": "TS_CHE_D",
+      "class_id": "C208",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C208_BIO",
+      "name": "生物",
+      "teacher_id": "TS_BIO_D",
+      "class_id": "C208",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C208_M_A",
+      "name": "早读(语文)",
+      "teacher_id": "TG_G2_CHI_B",
+      "class_id": "C208",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C208_M_B",
+      "name": "早读(英语)",
+      "teacher_id": "TG_G2_ENG_B",
+      "class_id": "C208",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C208_E_0",
+      "name": "自习(地理)",
+      "teacher_id": "TS_GEO_F",
+      "class_id": "C208",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C208_E_1",
+      "name": "自习(地理)",
+      "teacher_id": "TS_GEO_H",
+      "class_id": "C208",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C301_CHI",
+      "name": "语文",
+      "teacher_id": "TG_G3_CHI_E",
+      "class_id": "C301",
+      "weekly_hours": 8,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C301_MAT",
+      "name": "数学",
+      "teacher_id": "TG_G3_MAT_E",
+      "class_id": "C301",
+      "weekly_hours": 9,
+      "consecutive": true,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C301_ENG",
+      "name": "英语",
+      "teacher_id": "TG_G3_ENG_E",
+      "class_id": "C301",
+      "weekly_hours": 7,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C301_POL",
+      "name": "政治",
+      "teacher_id": "TS_POL_J",
+      "class_id": "C301",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C301_HIS",
+      "name": "历史",
+      "teacher_id": "TS_HIS_J",
+      "class_id": "C301",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C301_GEO",
+      "name": "地理",
+      "teacher_id": "TS_GEO_J",
+      "class_id": "C301",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C301_PHY",
+      "name": "物理",
+      "teacher_id": "TS_PHY_J",
+      "class_id": "C301",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C301_CHE",
+      "name": "化学",
+      "teacher_id": "TS_CHE_J",
+      "class_id": "C301",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C301_BIO",
+      "name": "生物",
+      "teacher_id": "TS_BIO_J",
+      "class_id": "C301",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C301_M_A",
+      "name": "早读(语文)",
+      "teacher_id": "TG_G3_CHI_A",
+      "class_id": "C301",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C301_M_B",
+      "name": "早读(英语)",
+      "teacher_id": "TG_G3_ENG_A",
+      "class_id": "C301",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C301_E_0",
+      "name": "自习(语文)",
+      "teacher_id": "TG_G3_CHI_A",
+      "class_id": "C301",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C301_E_1",
+      "name": "自习(语文)",
+      "teacher_id": "TG_G3_CHI_B",
+      "class_id": "C301",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C302_CHI",
+      "name": "语文",
+      "teacher_id": "TG_G3_CHI_F",
+      "class_id": "C302",
+      "weekly_hours": 9,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C302_MAT",
+      "name": "数学",
+      "teacher_id": "TG_G3_MAT_F",
+      "class_id": "C302",
+      "weekly_hours": 8,
+      "consecutive": true,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C302_ENG",
+      "name": "英语",
+      "teacher_id": "TG_G3_ENG_F",
+      "class_id": "C302",
+      "weekly_hours": 8,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C302_POL",
+      "name": "政治",
+      "teacher_id": "TS_POL_L",
+      "class_id": "C302",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C302_HIS",
+      "name": "历史",
+      "teacher_id": "TS_HIS_L",
+      "class_id": "C302",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C302_GEO",
+      "name": "地理",
+      "teacher_id": "TS_GEO_L",
+      "class_id": "C302",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C302_PHY",
+      "name": "物理",
+      "teacher_id": "TS_PHY_L",
+      "class_id": "C302",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C302_CHE",
+      "name": "化学",
+      "teacher_id": "TS_CHE_L",
+      "class_id": "C302",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C302_BIO",
+      "name": "生物",
+      "teacher_id": "TS_BIO_L",
+      "class_id": "C302",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C302_M_A",
+      "name": "早读(语文)",
+      "teacher_id": "TG_G3_CHI_B",
+      "class_id": "C302",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C302_M_B",
+      "name": "早读(英语)",
+      "teacher_id": "TG_G3_ENG_B",
+      "class_id": "C302",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C302_E_0",
+      "name": "自习(语文)",
+      "teacher_id": "TG_G3_CHI_C",
+      "class_id": "C302",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C302_E_1",
+      "name": "自习(语文)",
+      "teacher_id": "TG_G3_CHI_D",
+      "class_id": "C302",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C303_CHI",
+      "name": "语文",
+      "teacher_id": "TG_G3_CHI_A",
+      "class_id": "C303",
+      "weekly_hours": 9,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C303_MAT",
+      "name": "数学",
+      "teacher_id": "TG_G3_MAT_A",
+      "class_id": "C303",
+      "weekly_hours": 8,
+      "consecutive": true,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C303_ENG",
+      "name": "英语",
+      "teacher_id": "TG_G3_ENG_A",
+      "class_id": "C303",
+      "weekly_hours": 7,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C303_POL",
+      "name": "政治",
+      "teacher_id": "TS_POL_B",
+      "class_id": "C303",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C303_HIS",
+      "name": "历史",
+      "teacher_id": "TS_HIS_B",
+      "class_id": "C303",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C303_GEO",
+      "name": "地理",
+      "teacher_id": "TS_GEO_B",
+      "class_id": "C303",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C303_PHY",
+      "name": "物理",
+      "teacher_id": "TS_PHY_B",
+      "class_id": "C303",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C303_CHE",
+      "name": "化学",
+      "teacher_id": "TS_CHE_B",
+      "class_id": "C303",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C303_BIO",
+      "name": "生物",
+      "teacher_id": "TS_BIO_B",
+      "class_id": "C303",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C303_M_A",
+      "name": "早读(语文)",
+      "teacher_id": "TG_G3_CHI_C",
+      "class_id": "C303",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C303_M_B",
+      "name": "早读(英语)",
+      "teacher_id": "TG_G3_ENG_C",
+      "class_id": "C303",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C303_E_0",
+      "name": "自习(语文)",
+      "teacher_id": "TG_G3_CHI_E",
+      "class_id": "C303",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C303_E_1",
+      "name": "自习(语文)",
+      "teacher_id": "TG_G3_CHI_F",
+      "class_id": "C303",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C304_CHI",
+      "name": "语文",
+      "teacher_id": "TG_G3_CHI_B",
+      "class_id": "C304",
+      "weekly_hours": 9,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C304_MAT",
+      "name": "数学",
+      "teacher_id": "TG_G3_MAT_B",
+      "class_id": "C304",
+      "weekly_hours": 9,
+      "consecutive": true,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C304_ENG",
+      "name": "英语",
+      "teacher_id": "TG_G3_ENG_B",
+      "class_id": "C304",
+      "weekly_hours": 6,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C304_POL",
+      "name": "政治",
+      "teacher_id": "TS_POL_D",
+      "class_id": "C304",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C304_HIS",
+      "name": "历史",
+      "teacher_id": "TS_HIS_D",
+      "class_id": "C304",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C304_GEO",
+      "name": "地理",
+      "teacher_id": "TS_GEO_D",
+      "class_id": "C304",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C304_PHY",
+      "name": "物理",
+      "teacher_id": "TS_PHY_D",
+      "class_id": "C304",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C304_CHE",
+      "name": "化学",
+      "teacher_id": "TS_CHE_D",
+      "class_id": "C304",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C304_BIO",
+      "name": "生物",
+      "teacher_id": "TS_BIO_D",
+      "class_id": "C304",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C304_M_A",
+      "name": "早读(语文)",
+      "teacher_id": "TG_G3_CHI_D",
+      "class_id": "C304",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C304_M_B",
+      "name": "早读(英语)",
+      "teacher_id": "TG_G3_ENG_D",
+      "class_id": "C304",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C304_E_0",
+      "name": "自习(数学)",
+      "teacher_id": "TG_G3_MAT_A",
+      "class_id": "C304",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C304_E_1",
+      "name": "自习(数学)",
+      "teacher_id": "TG_G3_MAT_B",
+      "class_id": "C304",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C305_CHI",
+      "name": "语文",
+      "teacher_id": "TG_G3_CHI_C",
+      "class_id": "C305",
+      "weekly_hours": 8,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C305_MAT",
+      "name": "数学",
+      "teacher_id": "TG_G3_MAT_C",
+      "class_id": "C305",
+      "weekly_hours": 8,
+      "consecutive": true,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C305_ENG",
+      "name": "英语",
+      "teacher_id": "TG_G3_ENG_C",
+      "class_id": "C305",
+      "weekly_hours": 7,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C305_POL",
+      "name": "政治",
+      "teacher_id": "TS_POL_F",
+      "class_id": "C305",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C305_HIS",
+      "name": "历史",
+      "teacher_id": "TS_HIS_F",
+      "class_id": "C305",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C305_GEO",
+      "name": "地理",
+      "teacher_id": "TS_GEO_F",
+      "class_id": "C305",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C305_PHY",
+      "name": "物理",
+      "teacher_id": "TS_PHY_F",
+      "class_id": "C305",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C305_CHE",
+      "name": "化学",
+      "teacher_id": "TS_CHE_F",
+      "class_id": "C305",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C305_BIO",
+      "name": "生物",
+      "teacher_id": "TS_BIO_F",
+      "class_id": "C305",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C305_M_A",
+      "name": "早读(语文)",
+      "teacher_id": "TG_G3_CHI_E",
+      "class_id": "C305",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C305_M_B",
+      "name": "早读(英语)",
+      "teacher_id": "TG_G3_ENG_E",
+      "class_id": "C305",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C305_E_0",
+      "name": "自习(数学)",
+      "teacher_id": "TG_G3_MAT_C",
+      "class_id": "C305",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C305_E_1",
+      "name": "自习(数学)",
+      "teacher_id": "TG_G3_MAT_D",
+      "class_id": "C305",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C306_CHI",
+      "name": "语文",
+      "teacher_id": "TG_G3_CHI_D",
+      "class_id": "C306",
+      "weekly_hours": 10,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C306_MAT",
+      "name": "数学",
+      "teacher_id": "TG_G3_MAT_D",
+      "class_id": "C306",
+      "weekly_hours": 9,
+      "consecutive": true,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C306_ENG",
+      "name": "英语",
+      "teacher_id": "TG_G3_ENG_D",
+      "class_id": "C306",
+      "weekly_hours": 6,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C306_POL",
+      "name": "政治",
+      "teacher_id": "TS_POL_H",
+      "class_id": "C306",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C306_HIS",
+      "name": "历史",
+      "teacher_id": "TS_HIS_H",
+      "class_id": "C306",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C306_GEO",
+      "name": "地理",
+      "teacher_id": "TS_GEO_H",
+      "class_id": "C306",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C306_PHY",
+      "name": "物理",
+      "teacher_id": "TS_PHY_H",
+      "class_id": "C306",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C306_CHE",
+      "name": "化学",
+      "teacher_id": "TS_CHE_H",
+      "class_id": "C306",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C306_BIO",
+      "name": "生物",
+      "teacher_id": "TS_BIO_H",
+      "class_id": "C306",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C306_M_A",
+      "name": "早读(语文)",
+      "teacher_id": "TG_G3_CHI_F",
+      "class_id": "C306",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C306_M_B",
+      "name": "早读(英语)",
+      "teacher_id": "TG_G3_ENG_F",
+      "class_id": "C306",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C306_E_0",
+      "name": "自习(数学)",
+      "teacher_id": "TG_G3_MAT_E",
+      "class_id": "C306",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C306_E_1",
+      "name": "自习(数学)",
+      "teacher_id": "TG_G3_MAT_F",
+      "class_id": "C306",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C307_CHI",
+      "name": "语文",
+      "teacher_id": "TG_G3_CHI_E",
+      "class_id": "C307",
+      "weekly_hours": 10,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C307_MAT",
+      "name": "数学",
+      "teacher_id": "TG_G3_MAT_E",
+      "class_id": "C307",
+      "weekly_hours": 8,
+      "consecutive": true,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C307_ENG",
+      "name": "英语",
+      "teacher_id": "TG_G3_ENG_E",
+      "class_id": "C307",
+      "weekly_hours": 6,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C307_POL",
+      "name": "政治",
+      "teacher_id": "TS_POL_J",
+      "class_id": "C307",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C307_HIS",
+      "name": "历史",
+      "teacher_id": "TS_HIS_J",
+      "class_id": "C307",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C307_GEO",
+      "name": "地理",
+      "teacher_id": "TS_GEO_J",
+      "class_id": "C307",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C307_PHY",
+      "name": "物理",
+      "teacher_id": "TS_PHY_J",
+      "class_id": "C307",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C307_CHE",
+      "name": "化学",
+      "teacher_id": "TS_CHE_J",
+      "class_id": "C307",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C307_BIO",
+      "name": "生物",
+      "teacher_id": "TS_BIO_J",
+      "class_id": "C307",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C307_M_A",
+      "name": "早读(语文)",
+      "teacher_id": "TG_G3_CHI_A",
+      "class_id": "C307",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C307_M_B",
+      "name": "早读(英语)",
+      "teacher_id": "TG_G3_ENG_A",
+      "class_id": "C307",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C307_E_0",
+      "name": "自习(英语)",
+      "teacher_id": "TG_G3_ENG_A",
+      "class_id": "C307",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C307_E_1",
+      "name": "自习(英语)",
+      "teacher_id": "TG_G3_ENG_B",
+      "class_id": "C307",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C308_CHI",
+      "name": "语文",
+      "teacher_id": "TG_G3_CHI_F",
+      "class_id": "C308",
+      "weekly_hours": 9,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C308_MAT",
+      "name": "数学",
+      "teacher_id": "TG_G3_MAT_F",
+      "class_id": "C308",
+      "weekly_hours": 9,
+      "consecutive": true,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C308_ENG",
+      "name": "英语",
+      "teacher_id": "TG_G3_ENG_F",
+      "class_id": "C308",
+      "weekly_hours": 7,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C308_POL",
+      "name": "政治",
+      "teacher_id": "TS_POL_L",
+      "class_id": "C308",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C308_HIS",
+      "name": "历史",
+      "teacher_id": "TS_HIS_L",
+      "class_id": "C308",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C308_GEO",
+      "name": "地理",
+      "teacher_id": "TS_GEO_L",
+      "class_id": "C308",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C308_PHY",
+      "name": "物理",
+      "teacher_id": "TS_PHY_L",
+      "class_id": "C308",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C308_CHE",
+      "name": "化学",
+      "teacher_id": "TS_CHE_L",
+      "class_id": "C308",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C308_BIO",
+      "name": "生物",
+      "teacher_id": "TS_BIO_L",
+      "class_id": "C308",
+      "weekly_hours": 3,
+      "consecutive": false,
+      "slot_type": "standard"
+    },
+    {
+      "id": "CO_C308_M_A",
+      "name": "早读(语文)",
+      "teacher_id": "TG_G3_CHI_B",
+      "class_id": "C308",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C308_M_B",
+      "name": "早读(英语)",
+      "teacher_id": "TG_G3_ENG_B",
+      "class_id": "C308",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "morning"
+    },
+    {
+      "id": "CO_C308_E_0",
+      "name": "自习(英语)",
+      "teacher_id": "TG_G3_ENG_C",
+      "class_id": "C308",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    },
+    {
+      "id": "CO_C308_E_1",
+      "name": "自习(英语)",
+      "teacher_id": "TG_G3_ENG_D",
+      "class_id": "C308",
+      "weekly_hours": 2,
+      "consecutive": false,
+      "slot_type": "evening"
+    }
+  ],
+  "timetable": {}
+}
